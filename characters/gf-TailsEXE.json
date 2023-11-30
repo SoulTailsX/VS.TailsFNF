@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gf-TailsEXE LeftDance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gf-TailsEXE RightDance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-TailsEXE",
+	"position": [
+		-150,
+		50
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

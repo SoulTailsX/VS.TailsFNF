@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				-10
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "TailsRush Idle"
+		},
+		{
+			"offsets": [
+				92,
+				-6
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TailsRush Left"
+		},
+		{
+			"offsets": [
+				85,
+				-10
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TailsRush Down"
+		},
+		{
+			"offsets": [
+				91,
+				27
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TailsRush Up"
+		},
+		{
+			"offsets": [
+				102,
+				-7
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TailsRush Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TailsRush",
+	"position": [
+		-170,
+		300
+	],
+	"healthicon": "TailsRush",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		142,
+		0
+	],
+	"camera_position": [
+		-250,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

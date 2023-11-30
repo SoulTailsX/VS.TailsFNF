@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="encoreBF.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-encore idle0000" x="1260" y="0" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0001" x="1260" y="0" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0002" x="0" y="475" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0003" x="0" y="475" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0004" x="489" y="475" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0005" x="489" y="475" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0006" x="978" y="475" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0007" x="978" y="475" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0008" x="1467" y="475" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0009" x="1467" y="475" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0010" x="0" y="950" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0011" x="0" y="950" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0012" x="489" y="950" width="489" height="475"/>
+	<SubTexture name="bf-encore idle0013" x="489" y="950" width="489" height="475"/>
+	<SubTexture name="bf-encore down0000" x="0" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0001" x="0" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0002" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0003" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0004" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0005" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0006" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0007" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0008" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0009" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0010" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0011" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore down0012" x="630" y="0" width="630" height="411"/>
+	<SubTexture name="bf-encore up0000" x="567" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0001" x="567" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0002" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0003" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0004" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0005" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0006" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0007" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0008" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0009" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0010" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore up0011" x="1017" y="3306" width="450" height="499"/>
+	<SubTexture name="bf-encore left0000" x="978" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0001" x="978" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0002" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0003" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0004" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0005" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0006" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0007" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0008" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0009" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0010" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0011" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0012" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore left0013" x="1473" y="950" width="495" height="484"/>
+	<SubTexture name="bf-encore right0000" x="1350" y="2812" width="567" height="483"/>
+	<SubTexture name="bf-encore right0001" x="1350" y="2812" width="567" height="483"/>
+	<SubTexture name="bf-encore right0002" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0003" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0004" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0005" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0006" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0007" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0008" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0009" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0010" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0011" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0012" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0013" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0014" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0015" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0016" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0017" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0018" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore right0019" x="0" y="3306" width="567" height="483"/>
+	<SubTexture name="bf-encore miss down0000" x="0" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0001" x="630" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0002" x="630" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0003" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0004" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0005" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0006" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0007" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0008" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0009" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0010" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0011" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss down0012" x="1260" y="1434" width="630" height="411"/>
+	<SubTexture name="bf-encore miss left0000" x="0" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0001" x="495" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0002" x="495" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0003" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0004" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0005" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0006" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0007" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0008" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0009" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0010" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0011" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0012" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss left0013" x="990" y="1845" width="495" height="484"/>
+	<SubTexture name="bf-encore miss right0000" x="0" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0001" x="567" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0002" x="567" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0003" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0004" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0005" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0006" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0007" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0008" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0009" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0010" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0011" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0012" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0013" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0014" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0015" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0016" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0017" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0018" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss right0019" x="1134" y="2329" width="567" height="483"/>
+	<SubTexture name="bf-encore miss up0000" x="0" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0001" x="450" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0002" x="450" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0003" x="900" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0004" x="900" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0005" x="900" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0006" x="900" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0007" x="900" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0008" x="900" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0009" x="900" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0010" x="900" y="2812" width="450" height="494"/>
+	<SubTexture name="bf-encore miss up0011" x="900" y="2812" width="450" height="494"/>
+</TextureAtlas>

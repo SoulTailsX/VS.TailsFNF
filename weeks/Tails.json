@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Chasing",
+			"TailsRush",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Darkness",
+			"TailsRush",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sidekick",
+			"sonictails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Octane",
+			"cough",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"TailsRush",
+		"bf-encore",
+		"gf-TailsEXE",
+		"Ocatane"
+	],
+	"storyName": "Vs Tails.EXE",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

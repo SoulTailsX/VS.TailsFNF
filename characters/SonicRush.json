@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				139
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SonicRush idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				138
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SonicRush left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				136
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SonicRush down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				138
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SonicRush up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				133
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SonicRush right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				139
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SonicRush ew",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				139
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "SonicRush ew",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				139
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "SonicRush ew",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				139
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "SonicRush ew",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicRush",
+	"position": [
+		-170,
+		380
+	],
+	"healthicon": "SonicRush",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-230,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
